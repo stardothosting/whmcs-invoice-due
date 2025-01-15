@@ -27,7 +27,7 @@ This addon module allows administrators to set custom invoice due dates for spec
    Clone this repository or download the ZIP file.
 
 2. **Upload the Module**:
-   Upload the `CustomDueDate` directory to the `modules/addons/` directory of your WHMCS installation.
+   Upload the `customduedate` directory to the `modules/addons/` directory of your WHMCS installation.
 
 3. **Activate the Addon**:
    - Log in to your WHMCS admin area.
