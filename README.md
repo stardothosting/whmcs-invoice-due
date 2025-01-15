@@ -69,3 +69,5 @@ Here’s how you can configure the addon for various clients:
 
 To configure this, enter the following in the **Client Due Dates** field
 
+
+Made with <3 by [Shift8 Web Development](https://shift8web.ca)
